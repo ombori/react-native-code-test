@@ -1,4 +1,4 @@
-# Ombori React Native Code Test
+# Ombori React Code Test
 
 Hi there, we're really excited that you've made it this far in our interview process and look forward to getting to know you better.
 
@@ -12,7 +12,7 @@ ___
 
 What the test app should do:
 
-* Display a custom loading component for 3 seconds that uses the [React Native Animated library](https://facebook.github.io/react-native/docs/animated.html)
+* Display a custom loading component for 3 seconds
 * Fetch user data from https://reqres.in/
 * Display those users in a scrollable view that lazy loads more users when you've reached the bottom of the list, if there are no more users to load it should indicate that there are no more users.
 
